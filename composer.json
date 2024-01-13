@@ -11,7 +11,9 @@
             "url":"git://github.com/avalanche123/Imagine.git"
         }
     ],
-
+mage manipulation", "imagine"],
+    "homepage": "https://github.com/avalanche123/AvalancheImagineBundle",
+    "type": "symfony-bundle",
     "authors": [
         {
             "name": "Bulat Shakirzyanov",
